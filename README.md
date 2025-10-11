@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lovers+Quarrel&size=37&pause=1000&color=172AA0C6&center=true&vCenter=true&width=435&lines=%E2%80%9CHarvey+nobody+knows+what+I+see...%E2%80%9D)](https://git.io/typing-svg)
 <img src="https://github.com/Sunr4yss/Sunr4yss/blob/893f7b85e9810ac2b145fe88d84ba12443b0bca3/zro_or_zero_with_a_cap_bfdi_bfb_xfohv.webp" width="600" />
 
-# **“Yₒᵤᵣ ᵣₒₒₜₛ ₐᵣₑ cₒzy ₐₙd ₛₜᵣₒₙg, ₕₒₗdᵢₙg yₒᵤ ₜₕᵣₒᵤgₕ ₑᵥₑᵣyₜₕᵢₙg.”**
+# **"🅸 🆆🅾🆄🅻🅳🅽'🆃 🅳🆁🅴🅰🅼 🆃🅷🅸🆂 🅰🅽🆈 🅾🆃🅷🅴🆁 🆆🅰🆈"**
 
 ![image](https://github.com/Sunr4yss/Sunr4yss/blob/a4e5f651bd454c7c5b8a45d4122e76d166b9592d/Untitled1469-20241230152921.png)
 
