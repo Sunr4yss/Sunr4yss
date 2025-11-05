@@ -5,7 +5,7 @@
 
 <!-- 2nd Image: Animated Text, Centered & Bigger -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Love+Ya+Like+A+Sister&size=24&pause=1000&color=F70000&width=500&lines=Noob%2C+you+are+my+liberty....;I+celebrate+the+day+that+you+changed+my+history+;Life+and+death+will+always+lead+you+into+love+and+regret;But+you+have+answers%2C+and+I+have+the+key+for+the+door+to+noob;Winding+down+our+emotions;Family+and+friends+becoming+ghosts+to+dream+of;And+pass+on%2C+time+will+erase+every+face%2C+every+name;We+are+alone%2C+no+one+to+blame" alt="Animated Text" style="display:block; margin:auto;">   
+ 
 </p>
 
 <!-- 3rd Image: Same big size as 1st -->
