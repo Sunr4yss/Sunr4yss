@@ -1,8 +1,5 @@
 <!-- ───── top image ───── -->
-<p align="center">
-  <img src="https://github.com/Sunr4yss/Sunr4yss/blob/01ee92c6a62eb92409184a9cb4de865c09f4cba6/pizzapie.png" 
-       alt="Image Alt" 
-       width="150">
+
 </p>
 
 </td>
