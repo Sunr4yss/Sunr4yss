@@ -1,6 +1,5 @@
 <!-- Top images, medium size -->
 <p align="center">
-  <img src="https://github.com/Sunr4yss/Sunr4yss/blob/6ab07aee5da9def3580e1a890766c95161d6a2ef/dcb5999b7a6facf21d5eeb739da48181.jpg" width="300" /><br>
   <img src="https://github.com/Sunr4yss/Sunr4yss/blob/2cf5b57319a67dea9e73c18211f2761b9a003220/d081d25c717915bac49d07cc8cea51a5.jpg" width="300" />
 </p>
 
