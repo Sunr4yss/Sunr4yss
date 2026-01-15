@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=♡+Bloxy+Colas&color=5C3A21&style=plastic" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=♡+Soil+fertilized&color=5C3A21&style=plastic" alt="Profile Views">
 </p>
 
 
