@@ -1,30 +1,91 @@
-<!-- Top super big image -->
 <p align="center">
-  <img src="https://github.com/Sunr4yss/Sunr4yss/blob/8579b7abf68380baa1e94bc39c71385139ea1f83/Sans_titre_227_20260215234609.webp" width="900">
+  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=🧱+Bricks+Thrown&color=5a0e8e&style=plastic" alt="Profile Views">
 </p>
+<div align="center">
 
-<!-- Middle big image (not super big) -->
-<p align="center">
-  <img src="https://github.com/Sunr4yss/Sunr4yss/blob/8579b7abf68380baa1e94bc39c71385139ea1f83/Sans_titre_227_20260215232057.webp" width="700">
-</p>
+<!-- TOP LACE BORDER -->
+<img src="YOUR_TOP_LACE_IMAGE" width="100%">
+
+<br><br>
+
+<h4>Offline</h4>
+<sub>Currently not playing on Spotify</sub>
+
+<br><br>
+
+
+<br><br>
+
+<img src="YOUR_SMALL_FLOWER_DIVIDER" width="70%">
+
+<br><br>
+
+<hr width="90%">
 
 <br>
 
-<!-- Bio text big but not huge -->
-<h2 align="center" style="font-size:28px; line-height:1.3;">
-♟ :ᴅᴅ 🎱 ˙ Any / ᴘʀɴꜱ . . 🕷 ₊*<br>
-Sage ! !𓏏 &lt; Sprɪɢɢʏ ! ! ୨۪୧<br>
-🎲 4ᴛᴇᴇɴ ᄊ INꜰᴊ 🎰 *Pew Pew* ! ! 🎯
-</h2>
+</div>
+
+<table align="center">
+<tr>
+
+<!-- LEFT SIDE CHARACTER -->
+<td width="40%" align="center">
+<img src="YOUR_CHARACTER_IMAGE" width="260px">
+</td>
+
+<!-- RIGHT SIDE TEXT BOX -->
+<td width="60%" align="center">
+
+<div style="border:1px solid #ccc; padding:15px; width:85%;">
+
+<b>Check out stuff about me!!</b>
+
+<br><br>
+
+✦ My names kyle or matteo and im 15teen !! <br>
+✦ C: this always even when not said on pony! i love + ch. !! <br>
+✦ pls w2i im mostly offline and i miss messages <br>
+✦ You can find me at roblox area near bakery in safe server <br>
+✦ But um bmf!! i love making new friends ok!!
+
+</div>
 
 <br>
 
-<!-- Bottom super big image -->
-<p align="center">
-  <img src="https://github.com/Sunr4yss/Sunr4yss/blob/8579b7abf68380baa1e94bc39c71385139ea1f83/Sans_titre_227_20260216001022.webp" width="900">
-</p>
+<a href="YOUR_BUTTON_LINK">
+<img src="YOUR_BUTTON_IMAGE">
+</a>
 
+</td>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=⊹+Bullets&color=234358&style=plastic" alt="Profile Views">
-</p>
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+<!-- SMALL STAMP LINKS -->
+<a href="YOUR_STRAWPAGE_LINK">
+<img src="YOUR_STRAWPAGE_STAMP" width="110px">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_ATA_BOOK_LINK">
+<img src="YOUR_ATA_BOOK_STAMP" width="110px">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_PRNSPCE_LINK">
+<img src="YOUR_PRNSPCE_STAMP" width="110px">
+</a>
+
+<br><br>
+
+<!-- BOTTOM FLOWER BORDER -->
+<img src="YOUR_BOTTOM_FLOWER_BORDER" width="100%">
+
+</div>
