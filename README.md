@@ -43,11 +43,7 @@
 
 <br><br>
 
-✦ My names kyle or matteo and im 15teen !! <br>
-✦ C: this always even when not said on pony! i love + ch. !! <br>
-✦ pls w2i im mostly offline and i miss messages <br>
-✦ You can find me at roblox area near bakery in safe server <br>
-✦ But um bmf!! i love making new friends ok!!
+✦text text text text text text
 
 </div>
 
