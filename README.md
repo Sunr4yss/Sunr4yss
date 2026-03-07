@@ -42,7 +42,7 @@ ___
     - You can int me freely I like socialzing !! <br>
     ☠︎︎ C+H are allowed I dont mind :33 <br>
     - You find me either in dw rps or just chilling in docks <br>
-    ☠︎︎ lasty dont be scared to talk to me ahh!! <br>
+    ☠︎︎ lasty DONT COPY MY SKINS!! <br>
     </th>
   </tr>
 </table>
