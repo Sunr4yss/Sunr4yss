@@ -42,7 +42,8 @@ ___
     - You can int me freely I like socialzing !! <br>
     ☠︎︎ C+H are allowed I dont mind :33 <br>
     - You find me either in dw rps or just chilling in docks <br>
-    ☠︎︎ lasty DONT COPY MY SKINS!! <br>
+    ☠︎︎  DONT COPY MY SKINS!! <br>
+     - Also Im 14 yrs old and a Multishipper <br>
     </th>
   </tr>
 </table>
