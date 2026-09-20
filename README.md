@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Sunr4yss/Badges/blob/08ed035343498111af3ac58bb56c424e7105b095/tumblr_240ac67f88d76b6ec7afc1072d647cff_64e21652_400.webp" width="1000">
-  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=🎣+Fishes+caught&color=59FFFF&style=plastic" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Sunr4yss&label=🎣+Types+of+fish+caught&color=59FFFF&style=plastic" alt="Profile Views">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rampart+One&pause=4&color=59E8F7&width=439&height=55&lines=Motion+in+the+ocean+%3AD;His+air+hose+broke!!+%3A0;Lots+of+trouble...+%3A%2F;Lots+of+bubble...+%3A%28;He+was+in+a+jam.%3F%3F+%3A0;S'in+a+giant+clam!!+%3ADD" alt="Typing SVG" /></a> <img align="left" width="40%" src="https://github.com/Sunr4yss/Badges/blob/2f3cd77e5147ad47ebdf150cf4bbc5583052c24c/tumblr_4f9aa23fd94b403b61cae3454e32bce2_35b054b1_1280.png">
 ${\text{\color{#FF7E00FF} Hello sailor ! ! Im Sage or Hidey I go by She/Her but any prns on me is fine :3 }}$<p align="center">
