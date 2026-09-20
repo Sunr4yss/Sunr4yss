@@ -8,7 +8,7 @@ ${\text{\color{#FF7E00FF} Hello sailor ! ! Im Sage or Hidey I go by She/Her but 
  <sub>${\text{\color{#00F8FFFF} Im normally at docks or Bakery but also in Dandy world rps, Kingdoms, lastly hangouts ! ! }}$</sub><br>
 <img src="https://github.com/Sunr4yss/Badges/blob/08ed035343498111af3ac58bb56c424e7105b095/tumblr_5dff3f058f0fd3db65ef2679a33371b2_7954a1b3_100.webp" width="100">
                                                                                                                                         
-─ ⊹ ⊱꒰☆꒱⊰ ⊹ ─
+<img src="https://github.com/Sunr4yss/Badges/blob/8db37dc15f80679b4cf5abe42fdebeaeeab90d88/tumblr_6e87f380949eeeaca0f28f1311a01e1b_fba9b6b1_1280.webp" width="400">
 
 <p align="center">
 <sub>${\Large \text{\color{#FF7E00FF} Click the triangles to learn about me ! ! }}$</sub><br>
